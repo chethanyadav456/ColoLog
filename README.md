@@ -1,5 +1,5 @@
 <p align="center"><a href="https://nodei.co/npm/cololog/"><img src="https://nodei.co/npm/cololog.png"></a></p>
-<p align="center"><img src="https://img.shields.io/npm/v/cololog"> <img src="https://img.shields.io/npm/dm/discord-hcololog?label=downloads"> <img src="https://img.shields.io/npm/l/cololog"> <img src="https://img.shields.io/github/repo-size/meister03/cololog">  <a href="https://discord.gg/R33e7Pm5YV"><img src="https://discordapp.com/api/guilds/810116763639087124/widget.png" alt="Discord server"/></a></p>
+<p align="center"><img src="https://img.shields.io/npm/v/cololog"> <img src="https://img.shields.io/npm/dm/discord-hcololog?label=downloads"> <img src="https://img.shields.io/npm/l/cololog"> <img src="https://img.shields.io/github/repo-size/chethanyadav456/cololog">  <a href="https://discord.gg/R33e7Pm5YV"><img src="https://discordapp.com/api/guilds/810116763639087124/widget.png" alt="Discord server"/></a></p>
 
 # ColoLog
 
