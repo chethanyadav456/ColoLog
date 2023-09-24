@@ -1,0 +1,25 @@
+{
+  "name": "cololog",
+  "version": "1.0.0",
+  "description": "Colorful console logging made simple.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chethanyadav456/ColoLog.git"
+  },
+  "keywords": [
+    "ColoLog"
+  ],
+  "author": "chethanyadav456",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chethanyadav456/ColoLog/issues"
+  },
+  "homepage": "https://github.com/chethanyadav456/ColoLog#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
