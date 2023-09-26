@@ -22,6 +22,10 @@ Install ColoLog using npm:
 npm install cololog
 ```
 
+```bash
+yarn add cololog
+```
+
 ## Usage
 
 To use ColoLog in your project, import the module and create a new instance of the logger. You can then use the logger to log messages to the console.
