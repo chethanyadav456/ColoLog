@@ -1,6 +1,6 @@
 {
   "name": "cololog",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Colorful console logging made simple.",
   "main": "index.js",
   "scripts": {
