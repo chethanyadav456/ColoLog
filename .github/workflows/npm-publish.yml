@@ -5,7 +5,7 @@ name: ColoLog
 
 on:
   release: v1.0.1
-    types: [created]
+    types: [published]
 
 jobs:
   build:
